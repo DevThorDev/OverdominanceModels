@@ -7,5 +7,7 @@ The program files are structured into three folders:
 * Tools
 
 Start an analysis from the main level with
+
 python Control/GeneEvolutionMainV13.py
+
 after editing the input file (Control/Input.py).
