@@ -1,7 +1,7 @@
 # OverdominanceModels
 Overdominance Models - Equilibrium Analysis
 
-The program fils are structured into three folders:
+The program files are structured into three folders:
 * Control
 * ProgramFiles
 * Tools
